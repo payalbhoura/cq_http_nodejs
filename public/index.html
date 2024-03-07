@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Products Page</title>
+    <link rel="stylesheet" href="/public/homepage.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <a href="#homepage" class="navbar-brand">Ecommerce</a>
+        <ul class="navbar-menu">
+          <li><a href="#homepage">Home</a></li>
+        </ul>
+      </nav>
+    </header>
+    <h1>Featured Products</h1>
+    <div class="" id="popup"></div>
+    <div class="product-list" id="product-list"></div>
+    <div style="text-align: center">
+      <button class="load-more-btn" id="load-more-btn">Load More</button>
+    </div>
+    <dialog id="edit-product-dialog">
+      <form id="edit-product-form">
+        <input
+          type="text"
+          id="edit-product-name"
+          placeholder="Product Name"
+          required
+        />
+        <input
+          type="number"
+          id="edit-product-price"
+          placeholder="Product Price"
+          required
+        />
+        <button type="submit">Update Product</button>
+        <button type="button" id="close-dialog">Close</button>
+      </form>
+    </dialog>
+    <script src="/public/homepage.js"></script>
+  </body>
+</html>

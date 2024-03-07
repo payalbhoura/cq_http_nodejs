@@ -1,0 +1,113 @@
+[
+    {
+      "name": "Nike Air Jordan 1 Retro High OG 'Chicago'",
+      "description": "The Nike Air Jordan 1 Retro High OG 'Chicago' is a classic sneaker that features a red, white, and black colorway, with the iconic Nike swoosh on the side. The shoe is made with premium materials and features a comfortable fit, making it a great choice for both casual wear and athletic activities.",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOEqQzB_3zOjlWrXkOnrOu4n_n-9vH8uDISz_I4ZuEGVrU1h6umtu40uZStwui",
+      "price": 175,
+      "sizes": [
+        "M 7",
+        "M 7.5",
+        "M 8",
+        "M 8.5",
+        "M 9",
+        "M 9.5",
+        "M 10",
+        "M 10.5",
+        "M 11",
+        "M 11.5",
+        "M 12",
+        "M 13"
+      ],
+      "id": "07f25b1b-f608-47c3-b95c-6aba787fa074"
+    },
+    {
+      "name": "Supreme Box Logo Hoodie",
+      "description": "The Supreme Box Logo Hoodie is a stylish and comfortable hoodie that features the iconic Supreme logo on the front. The hoodie is made with high-quality materials and features a comfortable fit, making it a great choice for both casual wear and athletic activities.",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP7HUqHYSgnyy5LM2lnT1GZMIG3-p6zMNdHIqRSMU18rfPoPis0zMDADxljf9H",
+      "price": 350,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "id": "bcadca4d-d209-4766-a698-e66e1ee60f2c"
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "description": "The iPhone 14 Pro Max is the latest flagship smartphone from Apple, featuring a stunning 6.7-inch OLED display, a powerful A16 processor, and up to 1TB of storage. Capture stunning photos and videos with the triple-camera system, and stay connected with 5G support.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xvrPSF3VKgxfZVfYFM99IITvPm6uv3nXhG9tJSOcq0qbae19m8jJ1Tkrs8jt",
+      "price": 1499,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "id": "1cb1f753-a82d-4eea-9a19-cfd14fa79bbb"
+    },
+    {
+      "name": "MacBook Air M2",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFBRRKRISSc_vSZ_NtlZCyysPailVstjV2VqFV_k9UGAfjKp_tYs0guUANml4y",
+      "price": 999,
+      "sizes": [
+        "8GB/256GB",
+        "8GB/512GB",
+        "16GB/256GB",
+        "16GB/512GB"
+      ],
+      "id": "ec1c373a-7110-4ecb-8590-e0e47b36a512"
+    },
+    {
+      "name": "PlayStation 5",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRU0Z61grhYJuOjHckg0R56JUGpDT8ECwIKRUhs7tvqVKqAFrtiOZp7j9GSVrQ",
+      "price": 499,
+      "sizes": [
+        "Disc Edition",
+        "Digital Edition"
+      ],
+      "id": "a967bdb9-5188-4405-842b-9525b6242445"
+    },
+    {
+      "name": "Xbox Series X",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwpGRzgYsmWCWOwqMnL63D38Kbj3z9m2UTRhXtmZAutZYWGiMaPrMMz4_t9CDe",
+      "price": 499,
+      "sizes": [
+        "Disc Edition",
+        "Digital Edition"
+      ],
+      "id": "c7610086-50ac-4bc2-aaa5-c5bba5260564"
+    },
+    {
+      "name": "Nintendo Switch OLED",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCIq__3XYBDOfB9C3sUdqPT1HOR8whxtg61X2Zcw6C-kxLnGOULzLAFB5jWSLK",
+      "price": 349.99,
+      "sizes": [
+        "White",
+        "Neon Blue/Red"
+      ],
+      "id": "0a18d36f-1499-4c3a-aee9-ef6e3d3a6aed"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ9ywW7O5H6EF5HH9HFz4tKZTgyHJlUjWYDTJAxUIvlBgr3T9O8jAFmGq3fC1B",
+      "price": 1199,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "id": "19df6bf5-b846-4f73-86ec-d3f980c870c6"
+    },
+    {
+      "name": "Google Pixel 7 Pro",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH9IjMDjTDofteau9eZwNFZkLUdBjb76KtyihTp3ujirPGeY6gejAYuQ_JaNI-",
+      "price": 899,
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "id": "8d54e8dc-4df9-429a-a5da-74d303233da1"
+    }
+  ]
